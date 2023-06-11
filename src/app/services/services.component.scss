@@ -1,0 +1,28 @@
+.services {
+    padding: 20px;
+  }
+  
+  .service-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .service-item {
+    flex: 0 0 33.33%;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .service-item img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .service-item h3 {
+    margin-top: 10px;
+  }
+  
+  .service-item p {
+    margin-top: 5px;
+  }
+  
